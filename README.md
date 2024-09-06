@@ -1,4 +1,4 @@
-# Sequential_LEDs
+# Sequential LEDs
 
 ### If the button is pressed, the 4 LEDs are turned on sequentially
 
