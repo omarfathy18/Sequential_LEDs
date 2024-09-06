@@ -1,0 +1,3 @@
+C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Src/GPIO_program.c:14:9:GPIO_SetPinMode	24	static
+C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Src/GPIO_program.c:76:9:GPIO_SetPinValue	24	static
+C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Src/GPIO_program.c:124:9:GPIO_GetPinValue	24	static
