@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SequentialLEDs</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.st.stm32cube.ide.mcu.MCUProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeProjectNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeIdeServicesRevAev2ProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUAdvancedStructureProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUSingleCpuProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCURootProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Core/Inc/BIT_MATH.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/BIT_MATH.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/GPIO_config.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/GPIO_config.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/GPIO_interface.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/GPIO_interface.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/GPIO_private.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/GPIO_private.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/RCC_config.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/RCC_config.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/RCC_interface.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/RCC_interface.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/RCC_private.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/RCC_private.h</location>
+		</link>
+		<link>
+			<name>Core/Inc/STD_TYPES.h</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Inc/STD_TYPES.h</location>
+		</link>
+		<link>
+			<name>Core/Src/GPIO_program.c</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Src/GPIO_program.c</location>
+		</link>
+		<link>
+			<name>Core/Src/RCC_program.c</name>
+			<type>1</type>
+			<location>C:/Users/omar fathy/STM32CubeIDE/workspace_1.16.0/SequentialLEDs/Core/Src/RCC_program.c</location>
+		</link>
+	</linkedResources>
+</projectDescription>
